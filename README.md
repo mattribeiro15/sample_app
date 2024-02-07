@@ -41,9 +41,3 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
-
-Then commit the changes as follows:
-
-$ git commit -am "Improve the README"
-
-You may recall from Section 1.3.4 that we used the Git command git commit -a -m "Message", with flags for “all changes” (-a) and a message (-m). As shown in the second command above, Git also lets us roll the two flags into one using git commit -am "Message".
